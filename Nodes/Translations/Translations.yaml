@@ -20,3 +20,9 @@ Children:
   ValueRank: 2
   ArrayDimensions: [0,0]
   Value: {"Type":12,"Dimensions":[0,0],"Body":[]}
+- Name: LocalizationDictionary2
+  Type: LocalizationDictionary
+  DataType: String
+  ValueRank: 2
+  ArrayDimensions: [0,0]
+  Value: {"Type":12,"Dimensions":[0,0],"Body":[]}
