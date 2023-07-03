@@ -169,7 +169,7 @@ Children:
       - Name: LevelColor
         Type: BaseDataVariableType
         DataType: Color
-        Value: "#00adee"
+        Value: "#1b7597"
       - Name: Level
         Type: BaseDataVariableType
         DataType: Double
