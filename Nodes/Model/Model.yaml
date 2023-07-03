@@ -1,7 +1,7 @@
 Name: Model
 Type: ModelCategoryFolder
 Children:
-- Name: Object23
+- Name: Object2
   Type: BaseDataVariableType
   DataType: Int32
   Value: 23
