@@ -87,7 +87,7 @@ Children:
     DataType: String
     ModellingRule: Optional
     Value: "CollaboratorTest"
-  - Name: ScaleLayout1
+  - Name: ScaleLayout3
     Type: ScaleLayout
     Children:
     - Name: OriginalWidth
@@ -118,7 +118,7 @@ Children:
         DataType: Size
         ModellingRule: Optional
         Value: 40.0
-    - Name: TextBox1
+    - Name: TextBox3
       Type: TextBox
       Children:
       - Name: Text
@@ -158,7 +158,7 @@ Children:
         DataType: Size
         ModellingRule: Optional
         Value: 37.0
-    - Name: Tank1
+    - Name: Tank3
       Type: ScaleLayout
       WriteMask: BrowseName|DataType|Description|DisplayName|MinimumSamplingInterval|UserAccessLevel
       Children:
