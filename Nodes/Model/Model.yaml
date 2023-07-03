@@ -97,3 +97,8 @@ Children:
       Type: PropertyType
       DataType: NodeId
       Value: {"IdType":0,"Id":0,"Namespace":-1}
+- Name: Variable
+  Id: g=32b0e020bfddb50d266e56353b0c676b
+  Supertype: BaseDataVariableType
+  DataType: Int32
+  Value: 0
