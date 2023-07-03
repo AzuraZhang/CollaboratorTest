@@ -87,7 +87,7 @@ Children:
     DataType: String
     ModellingRule: Optional
     Value: "CollaboratorTest"
-  - Name: ScaleLayout6
+  - Name: ScaleLayout7
     Type: ScaleLayout
     Children:
     - Name: OriginalWidth
