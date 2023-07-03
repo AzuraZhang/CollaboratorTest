@@ -1,2 +1,50 @@
 Name: Model
 Type: ModelCategoryFolder
+Children:
+- Name: Object2
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 23
+  Children:
+  - Name: Variable1
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 33
+  - Name: AnalogVariable1
+    Type: AnalogItemType
+    DataType: Float
+    Value: 43.0
+    Children:
+    - Name: EURange
+      Type: RangeType
+      DataType: EURange
+      Value: 
+       {
+        "TypeId": {
+         "Id": 884
+        },
+        "Body": {
+         "low": 0.0,
+         "high": 0.0
+        }
+       }
+      Children:
+      - Name: Low
+        Type: BaseVariableType
+        DataType: Double
+        ReferenceType: HasProperty
+        Value: 13.0
+      - Name: High
+        Type: BaseVariableType
+        DataType: Double
+        ReferenceType: HasProperty
+        Value: 53.0
+  - Name: NodePointer1
+    Type: NodePointer
+    DataType: NodeId
+    Value: {"IdType":2,"Id":"f635513153edcf04b2914723ae2c025c","Namespace":7}
+    Children:
+    - Name: Kind
+      Type: PropertyType
+      DataType: NodeId
+      Value: {"IdType":0,"Id":0,"Namespace":-1}
